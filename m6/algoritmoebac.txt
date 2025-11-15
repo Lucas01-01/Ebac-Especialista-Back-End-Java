@@ -1,0 +1,31 @@
+acordar e abrir os olhos
+
+verificar se está claro ou escuro
+ 2.1 se estiver escuro → decidir se volta a dormir ou acende a luz
+ 2.2 se estiver claro → continuar rotina
+
+levantar da cama
+
+verificar se está com sono
+ 4.1 se sim → beber água e lavar o rosto
+ 4.2 se não → continuar rotina
+
+ir ao banheiro
+
+escovar os dentes
+
+verificar se está com fome
+ 7.1 se sim → preparar café da manhã
+ 7.2 se não → beber apenas água
+
+tomar café da manhã
+
+verificar clima do dia
+ 9.1 se estiver ensolarado → fazer corrida ao ar livre
+ 9.2 se estiver chuvoso → fazer treino físico em casa
+
+tomar banho
+
+vestir-se para o dia
+
+encerrar rotina matinal
